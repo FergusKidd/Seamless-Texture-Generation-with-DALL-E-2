@@ -2,6 +2,6 @@
 
 Generate Seamless textures from DALL-E-2 for novel textures for use in 3D modelling for the metaverse, art, or maybe procedural generation.
 
-The project is preented as an ipython notebook. Exmaple outputs:
+The project is preented as an ipython notebook. Example outputs:
 
-![DALL-E-2 Generated Seamless Texture of yellow bricks](images/Yellow Brick Example.jpg)
+![An Example Output of a Yellow Brick Texture](./images/YellowBrickExample.jpg)

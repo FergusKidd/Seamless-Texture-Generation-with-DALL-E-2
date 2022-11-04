@@ -1,0 +1,4 @@
+openai==0.25.0
+opencv-python==4.6.0.66
+matplotlib==3.6.2
+python-dotenv==0.21.0

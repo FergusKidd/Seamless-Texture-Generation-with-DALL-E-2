@@ -4,4 +4,4 @@ Generate Seamless textures from DALL-E-2 for novel textures for use in 3D modell
 
 The project is preented as an ipython notebook. Exmaple outputs:
 
-![DALL-E-2 Generated Seamless Texture of yellow bricks](/images/Yellow bricks example.jpg)
+![DALL-E-2 Generated Seamless Texture of yellow bricks](images/Yellow Brick Example.jpg)
